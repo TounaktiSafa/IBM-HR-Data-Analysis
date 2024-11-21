@@ -1,2 +1,3 @@
 # IBM-HR-Data-Analysis
-This project represents data analysis with Python using the Numpy, Pandas, matplotlib,and seaborn libraries. It also includes data visualization using Power BI.
+This repository contains a Python script that analyzes a dataset related to employee attrition in a corporate environment. The dataset, sourced from a CSV file, includes various employee metrics, such as age, job role, and income, for a total of 1,470 employees.
+
